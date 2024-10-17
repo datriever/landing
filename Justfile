@@ -8,3 +8,6 @@ build:
 
 preview:
   yarn run start
+
+deploy:
+  yarn run deploy
